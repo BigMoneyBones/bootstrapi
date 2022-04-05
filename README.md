@@ -14,7 +14,7 @@ Lets start by creating a `<button>` and an empty `<img>` in the HTML.
 Make the button look like [a nice Bootstrap button](https://getbootstrap.com/docs/5.0/components/buttons/). 
 
 Additionally, put both your button and image in a Bootstrap "card"
-component. Read the Bootstarp documentation to figure out how to do this: https://getbootstrap.com/docs/5.0/components/card/
+component. Read the Bootstrap documentation to figure out how to do this: https://getbootstrap.com/docs/5.0/components/card/
 
 #### 1B) Handle Button Click
 
@@ -34,7 +34,7 @@ your image's source to be that URL.
 
 Everytime you click the button, you should see a new random dog image appear!
 
-## Part 2 - Weather App
+## Part 2 - Weather App 
 
 In this part, you'll allow a user to enter the name of a city into a text input,
 then press a button to submit. Your application will check the weather in that city,
